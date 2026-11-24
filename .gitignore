@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local/unrelated files
+*_backup.h5
+Missing.java
+Missing.class
+*.lnk
+*.exe
+*.swp
